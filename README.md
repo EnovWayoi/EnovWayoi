@@ -49,14 +49,14 @@
 
 
 <div align="center">
-  <!-- GitHub Comprehensive Stats -->
+  <!-- GitHub Comprehensive Stats (Using stable mirror) -->
   <a href="https://github.com/EnovWayoi">
-    <img src="https://github-readme-stats.vercel.app/api?username=EnovWayoi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8&text_color=718096" height="195" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnovWayoi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8&text_color=718096" height="195" alt="GitHub Stats" />
   </a>
   
-  <!-- Top Languages -->
+  <!-- Top Languages (Using stable mirror) -->
   <a href="https://github.com/EnovWayoi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnovWayoi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=718096" height="195" alt="Top Languages" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnovWayoi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=718096" height="195" alt="Top Languages" />
   </a>
 </div>
 
