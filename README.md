@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 About Me
+
 
 *Welcome to my digital workspace! I'm passionate about creating elegant, efficient, and scalable software solutions.*
 
@@ -30,7 +30,6 @@
 
 ---
 
-### 🛠️ The 2026 Tech Arsenal
 
 <div align="center">
   <h4>Core Languages & Scripting</h4>
@@ -48,7 +47,6 @@
 
 ---
 
-### 📈 GitHub Analytics
 
 <div align="center">
   <!-- GitHub Comprehensive Stats -->
