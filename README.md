@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,aws,supabase&perline=12" alt="Databases and Cloud"/>
   
   <h4>Tools, DevOps & AI</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman&perline=12" alt="DevOps and Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,pycharm&perline=12" alt="DevOps and Tools"/>
 </div>
 
 ---
