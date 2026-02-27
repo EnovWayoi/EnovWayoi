@@ -36,13 +36,13 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,markdown,c,cpp&perline=12" alt="Core Languages"/>
   
   <h4>Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=flask,django,react,nextjs,nodejs,express,tailwind,bootstrap&perline=12" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap&perline=12" alt="Frameworks"/>
   
   <h4>Databases & Cloud</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,firebase,supabase&perline=12" alt="Databases and Cloud"/>
+  <img src="https://skillicons.dev/icons?i=mysql,aws,supabase&perline=12" alt="Databases and Cloud"/>
   
   <h4>Tools, DevOps & AI</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman,figma&perline=12" alt="DevOps and Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,ubuntu,vscode,postman&perline=12" alt="DevOps and Tools"/>
 </div>
 
 ---
