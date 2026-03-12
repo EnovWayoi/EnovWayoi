@@ -33,7 +33,7 @@
 
 <div align="center">
   <h4>Core Languages & Scripting</h4>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,markdown,c,cpp,kotlin&perline=12" alt="Core Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,markdown,c,cpp,kotlin&perline=12" alt="Core Languages"/>
   
   <h4>Frameworks & Libraries</h4>
   <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap&perline=12" alt="Frameworks"/>
