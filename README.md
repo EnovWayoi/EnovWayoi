@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,bash,markdown,c,cpp,kotlin&perline=12" alt="Core Languages"/>
   
   <h4>Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap,jetpack&perline=12" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap,jetpackcompose&perline=12" alt="Frameworks"/>
   
   <h4>Databases & Cloud</h4>
   <img src="https://skillicons.dev/icons?i=mysql,aws,supabase&perline=12" alt="Databases and Cloud"/>
