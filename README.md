@@ -33,7 +33,7 @@
 
 <div align="center">
   <h4>Core Languages & Scripting</h4>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,markdown,c,cpp,kotlin&perline=12" alt="Core Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,bash,markdown,c,cpp,kotlin,php&perline=12" alt="Core Languages"/>
   
   <h4>Frameworks & Libraries</h4>
   <img src="https://skillicons.dev/icons?i=flask,tailwind,bootstrap&perline=12" alt="Frameworks"/>
@@ -42,7 +42,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,aws,supabase&perline=12" alt="Databases and Cloud"/>
   
   <h4>Tools & DevOps</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm&perline=12" alt="DevOps and Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,phpstorm,androidstudio&perline=12" alt="DevOps and Tools"/>
 </div>
 
 ---
