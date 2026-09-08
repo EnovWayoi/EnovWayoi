@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Glowing animated header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=250&section=header&text=Hello,%20I'm%20Enov%20Wayoi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=250&section=header&text=Hello,%20I'm%20Enov%20Wayoi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&descSize=20&descAlignY=55" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
@@ -16,17 +16,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-
-
-*Welcome to my digital workspace! I'm passionate about creating elegant, efficient, and scalable software solutions.*
-
-- 🔭 **Currently working on:** Advanced web applications and my capstone design projects.
-- 🌱 **Currently exploring:** Cloud Architectures, AI/Machine Learning integrations, and high-performance Web Frameworks.
-- 💡 **Engineering philosophy:** Writing clean, maintainable, and well-documented code.
-- ⚡ **Fun fact:** I can spend hours debugging a single line of code, but the "Aha!" moment makes it completely worth it.
 
 ---
 
