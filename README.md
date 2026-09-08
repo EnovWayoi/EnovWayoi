@@ -38,20 +38,6 @@
 
 
 <div align="center">
-  <!-- GitHub Comprehensive Stats (Using stable mirror) -->
-  <a href="https://github.com/EnovWayoi">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=EnovWayoi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=38BDF8&title_color=38BDF8&text_color=718096" height="195" alt="GitHub Stats" />
-  </a>
-  
-  <!-- Top Languages (Using stable mirror) -->
-  <a href="https://github.com/EnovWayoi">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EnovWayoi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=718096" height="195" alt="Top Languages" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
   <!-- Contribution Streak -->
   <a href="https://github.com/EnovWayoi">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnovWayoi&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakNum=ffffff" alt="GitHub Streak" />
