@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." - Martin Fowler</i>
+  <i>"You're not going to lose your job to an AI, but you're going to lose your job to someone who uses AI." -  Jensen Huang</i>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=EnovWayoi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
