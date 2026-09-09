@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Glowing animated header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=250&section=header&text=Hello,%20I'm%20Enov%20Wayoi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,25&height=250&section=header&text=Hello,%20I'm%20Enov&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&descSize=20&descAlignY=55" />
 
   <!-- Animated Typing Text -->
   <a href="https://git.io/typing-svg">
